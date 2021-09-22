@@ -1,0 +1,31 @@
+{
+  "name": "xlsx-diff",
+  "version": "1.0.0",
+  "description": "Compare sheets and output diff",
+  "contributors": [
+    "Arif N. P. Masyur <arifnpm@gmail.com>"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compare",
+    "sheets",
+    "xlsx",
+    "diff"
+  ],
+  "author": "arifnpm",
+  "license": "ISC",
+  "dependencies": {
+    "json-colorizer": "^2.2.2",
+    "jsondiffpatch": "^0.4.1",
+    "xlsx": "^0.17.2"
+  },
+  "bin": {
+    "xlsx-diff": "index.js"
+  },
+  "files": [
+    "index.js"
+  ]
+}
