@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const XLSX = require("xlsx");
 const jsondiffpatch = require("jsondiffpatch");
 const colorize = require('json-colorizer');
