@@ -1,12 +1,4 @@
-# How to use
-
-Install in current folder:
-`npm install xlsx-diff`
-
-Run it:
-`xlsx-diff file1.xlsx file2.xlsx`
-
-# MIT License
+MIT License
 
 Copyright (c) 2021 Arif Nusabdi Pammula Masyur
 
